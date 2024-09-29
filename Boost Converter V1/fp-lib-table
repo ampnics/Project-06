@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XL6009")(type "KiCad")(uri "C:/Users/MD Ammar/Downloads/XL6009")(options "")(descr ""))
+  (lib (name "CDRH127NP-330MC")(type "KiCad")(uri "C:/Users/MD Ammar/Downloads/CDRH127NP-330MC")(options "")(descr ""))
+)
